@@ -41,6 +41,11 @@ a{
   color: 493627;
 }
 
+a img.another { display: none; }
+
+   a:hover img.actul { display: none }
+   a:hover img.another { display: block; }
+
 article{color: ECAB21;
 }
 
