@@ -52,10 +52,14 @@ article{color: ECAB21;
 .run{ padding-left: 150px;
       font-family: TimesNewRoman;
       font-size: 30px;}
-.hello{padding-left: 250px;
+.hello{position: abolute;
+      /*padding-left: 250px;*/
       font-size: 20px;
       list-style-type: none;
 }
+.goodbye{ padding-left: 50px;
+          font-size: 20px;
+          list-style-type: none;}
 /*<style>*/
    /*a img.Large { display: none; }*/
 
