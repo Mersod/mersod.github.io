@@ -49,14 +49,13 @@ a img.another { display: none; }
 article{color: ECAB21;
 }
 
-.run{ padding-left: 150px;
+.run{ padding-left: 650px;
       font-family: TimesNewRoman;
       font-size: 30px;
       display: inline-block;
     }
-.hello{position: abolute;
-      padding-left: -250px;
-      font-size: 20px;
+.hello{font-size: 20px;
+      width: 400px;
       list-style-type: none;
 }
 .alicia{list-style-type: none;
@@ -64,7 +63,7 @@ article{color: ECAB21;
 .goodbye{ padding-left: 50px;
           font-size: 20px;
           list-style-type: none;}
-.night{ display:inline-block
+.night{ display:inline-block;
 }
 /*<style>*/
    /*a img.Large { display: none; }*/
