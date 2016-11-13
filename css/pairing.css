@@ -81,7 +81,7 @@ nav{
   background-color: grey;
   vertical-align: top;
 /*outline: 1px solid orange;*/
-  height: 1250px;
+  height: 1400px;
   width: 175px;
   display: inline-block;
   font-size: 18;
@@ -93,7 +93,7 @@ main{
   outline: 1px solid green;*/
   padding-top: 40px;
   width: 900px;
-  height: 1250px;
+  height: 1400px;
   display: inline-block;
   align-items: center;
 }
