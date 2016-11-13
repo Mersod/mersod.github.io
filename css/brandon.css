@@ -51,15 +51,19 @@ article{color: ECAB21;
 
 .run{ padding-left: 150px;
       font-family: TimesNewRoman;
-      font-size: 30px;}
+      font-size: 30px;
+      display: inline-block;
+    }
 .hello{position: abolute;
-      /*padding-left: 250px;*/
+      padding-left: -250px;
       font-size: 20px;
       list-style-type: none;
 }
 .goodbye{ padding-left: 50px;
           font-size: 20px;
           list-style-type: none;}
+.night{ display:
+}
 /*<style>*/
    /*a img.Large { display: none; }*/
 
